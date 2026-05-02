@@ -52,10 +52,10 @@ This app demonstrates product browsing, cart functionality, and clean UI design.
 
 ## 📱 Screenshots
 
-![Home](screenshots/home.png)
-![Product](screenshots/product_page.png)
-![Cart](screenshots/cart.png)
-![Delete](screenshots/delete_product.png)
+![Home](screenshots/home.jpg)
+![Product](screenshots/product_page.jpg)
+![Cart](screenshots/cart.jpg)
+![Delete](screenshots/delete_product.jpg)
 
 ---
 
