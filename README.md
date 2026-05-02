@@ -70,3 +70,10 @@ flutter run
 
 Benhur
 
+
+<p align="center">
+  <img src="screenshots/home.jpg" width="250"/>
+  <img src="screenshots/product.jpg" width="250"/>
+  <img src="screenshots/cart.jpg" width="250"/>
+  <img src="screenshots/deL_product.jpg" width="250"/>
+</p>
