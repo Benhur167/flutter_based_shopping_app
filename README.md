@@ -52,10 +52,12 @@ This app demonstrates product browsing, cart functionality, and clean UI design.
 
 ## 📱 Screenshots
 
-![Home](screenshots/home.jpg)
-![Product](screenshots/product_page.jpg)
-![Cart](screenshots/cart.jpg)
-![Delete](screenshots/delete_product.jpg)
+<p align="center">
+  <img src="screenshots/home.jpg" width="250"/>
+  <img src="screenshots/product_page.jpg" width="250"/>
+  <img src="screenshots/cart.jpg" width="250"/>
+  <img src="screenshots/del_product.jpg" width="250"/>
+</p>
 
 ---
 
@@ -71,9 +73,4 @@ flutter run
 Benhur
 
 
-<p align="center">
-  <img src="screenshots/home.jpg" width="250"/>
-  <img src="screenshots/product.jpg" width="250"/>
-  <img src="screenshots/cart.jpg" width="250"/>
-  <img src="screenshots/deL_product.jpg" width="250"/>
-</p>
+
